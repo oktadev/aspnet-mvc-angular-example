@@ -1,7 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 
-import JoggingRecord from 'src/shared/JoggingRecord';
-import ApiService from 'src/shared/api.service';
+import JoggingRecord from '../shared/JoggingRecord';
+import ApiService from '../shared/api.service';
 
 @Component({
   selector: 'app-root',
